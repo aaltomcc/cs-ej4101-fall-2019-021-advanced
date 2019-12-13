@@ -20,43 +20,8 @@
   </url>
   
   <url>
-    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/posts/my-second-post/</loc>
-    <lastmod>2019-12-01T15:33:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/tags/also-using-git-is-a-breath-of-fresh-air-from-work-with-centralized-version-control./</loc>
-    <lastmod>2019-12-01T15:33:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/tags/i-sumbled-upon-this-course-in-weboodi-and-decided-immediatelly-to-take-it.-the-fact-that-this-course-is-offered-as-a-web-course-was-great.-i-can-do-the-needed-work-at-my-own-discretion./</loc>
-    <lastmod>2019-12-01T15:33:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/tags/i-wanted-to-get-some-new-angles-and-ideas-on-pipelines.-i-havent-used-travis-previously-so-now-i-have./</loc>
-    <lastmod>2019-12-01T15:33:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/tags/</loc>
-    <lastmod>2019-12-01T15:33:46+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/tags/this-hugo-contraption-is-totally-new-to-me-and-seems-a-little-strange-but-with-a-little-time-i-believe-this-would-become-second-nature-to-me./</loc>
-    <lastmod>2019-12-01T15:33:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/posts/my-first-post/</loc>
-    <lastmod>2019-12-01T15:33:46+02:00</lastmod>
   </url>
   
   <url>
@@ -70,8 +35,46 @@
   </url>
   
   <url>
+    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/tags/also-using-git-is-a-breath-of-fresh-air-from-work-with-centralized-version-control./</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/tags/i-have-configured-some-pipelines-before-but-not-a-travis-one.-i-found-it-to-be-very-similar-than-the-one-in-azure-devopes./</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/tags/i-sumbled-upon-this-course-in-weboodi-and-decided-immediatelly-to-take-it.-the-fact-that-this-course-is-offered-as-a-web-course-was-great.-i-can-do-the-needed-work-at-my-own-discretion./</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/tags/i-wanted-to-get-some-new-angles-and-ideas-on-pipelines.-i-havent-used-travis-previously-so-now-i-have./</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/tags/this-hugo-contraption-is-totally-new-to-me-and-seems-a-little-strange-but-with-a-little-time-i-believe-this-would-become-second-nature-to-me./</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/posts/my-second-post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/posts/my-first-post/</loc>
   </url>
   
 </urlset>
