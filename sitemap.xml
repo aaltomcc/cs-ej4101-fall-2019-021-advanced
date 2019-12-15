@@ -9,24 +9,19 @@
   </url>
   
   <url>
-    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/post/</loc>
+    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/posts/</loc>
     <lastmod>2019-12-14T09:24:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/post/my-second-post/</loc>
+    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/posts/my-second-post/</loc>
     <lastmod>2019-12-14T09:24:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/about/about/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/about/</loc>
-    <priority>0</priority>
+    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/posts/my-first-post/</loc>
+    <lastmod>2019-12-14T08:24:00+02:00</lastmod>
   </url>
   
   <url>
@@ -37,10 +32,6 @@
   <url>
     <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/post/my-first-post/</loc>
   </url>
   
 </urlset>
