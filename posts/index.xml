@@ -17,8 +17,7 @@
       <pubDate>Sat, 14 Dec 2019 09:24:00 +0200</pubDate>
       
       <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/posts/my-second-post/</guid>
-      <description>#learning 021
- I have configured some pipelines before but not a Travis one. It was pretty straigh forward to do. I have learned that configuring a pipeline is easy and hard at the same time. It is possible to get something done extremely fast (80%) but that it is extremely hard to get it to do the things it does correctly (20%). The most fun part was to make the pipeline to deploy this page over and over again and iron out the small errors I made in the configurations.</description>
+      <description>I have configured some pipelines before but not a Travis one. It was pretty straigh forward to do. I have learned that configuring a pipeline is easy and hard at the same time. It is possible to get something done extremely fast (80%) but that it is extremely hard to get it to do the things it does correctly (20%). The most fun part was to make the pipeline to deploy this page over and over again and iron out the small errors I made in the configurations.</description>
     </item>
     
     <item>
