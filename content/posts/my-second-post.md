@@ -11,5 +11,5 @@ tags = []
 * The concepts covered were pretty much known to me before hand (except Hugo) and this was just a way to verify previously gathered information and see If I can make it.
 * The most difficult part was to write these 250-500 word long learning diary thingys to this page.
 * The pipeline was easy to me as was the Git and GitHub usage.
-* I don't know if the course has some way of logging the branches and commits but I faked my history and rebased the commits to one single happy commit where everything just works. This is something I don't like but will keep on doing.
+* I don't know if the course has some way of logging the branches and commits but I faked my history and rebased the commits to one single happy commit where everything just works. This is something I don't like but will keep on doing to make the history more presentable.
 
