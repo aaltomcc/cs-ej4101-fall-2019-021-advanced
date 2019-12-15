@@ -6,20 +6,18 @@
     <description>Recent content on About My Self</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Dec 2019 08:24:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2019 09:24:00 +0200</lastBuildDate>
     
 	<atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>this course 021</title>
-      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/post/my-first-post/</link>
-      <pubDate>Sat, 14 Dec 2019 08:24:00 +0200</pubDate>
+      <title>learning 021</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/post/my-second-post/</link>
+      <pubDate>Sat, 14 Dec 2019 09:24:00 +0200</pubDate>
       
-      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/post/my-first-post/</guid>
-      <description>I stumbled upon this course in WebOodi and decided immediatelly to take it. The fact that this course is offered as a web course was great. I can do the needed work at my own discretion.
- I wanted to get some new angles and ideas on pipelines. I haven&amp;rsquo;t used Travis previously so now I have.
- This Hugo contraption is totally new to me and seems a little strange but with a little time I believe this would become second nature to me.</description>
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/post/my-second-post/</guid>
+      <description> I have configured some pipelines before but not a Travis one. I found it to be very similar than the one in Azure Devopes. I have learned that configuring a pipeline is easy and hard at the same time. It is possible to get something done extremely fast (80%) but that it is extremely hard to get it to do the things it does correctly (20%).  </description>
     </item>
     
     <item>
@@ -29,6 +27,17 @@
       
       <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/about/about/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>this course 021</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/post/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-021-advanced/post/my-first-post/</guid>
+      <description>I stumbled upon this course in WebOodi and decided immediatelly to take it. The fact that this course is offered as a web course was great. I can do the needed work at my own discretion.
+ I wanted to get some new angles and ideas on pipelines. I haven&amp;rsquo;t used Travis previously so now I have.
+ This Hugo contraption is totally new to me and seems a little strange but with a little time I believe this would become second nature to me.</description>
     </item>
     
   </channel>
